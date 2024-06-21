@@ -39,4 +39,8 @@ Deployed URL (http://skyshare.us-west-1.elasticbeanstalk.com)
 
 ## Preview
 
-![Home](img/readme/home.jpeg)
+![Home](SkyShare/img/readme/home.jpeg)
+![Login](SkyShare/img/readme/login.jpeg)
+![Matching](SkyShare/img/readme/matching.jpeg)
+![Form](SkyShare/img/readme/form.jpeg)
+![Group](SktShare/img/readme/group.jpeg)
