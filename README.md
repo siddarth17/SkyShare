@@ -1,7 +1,7 @@
 # SkyShare
 
 ## About
-SkyShare is a web application designed as a simple solution to finding safe and economical rides when they travel from LAX. This application is built using HTML, CSS, JavaScript, and Java with MySQL database. Bootstrap and jQuery were used to enhance user experience and page dynamics. 
+SkyShare is a web application designed as a simple solution to finding safe and economical rides when they travel from LAX. This application is built using HTML, CSS, JavaScript, and Java with MySQL database. Bootstrap, Google Maps API, and jQuery were used to enhance user experience and page dynamics. 
 
 ## Features
 
